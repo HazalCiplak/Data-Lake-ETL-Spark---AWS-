@@ -85,13 +85,13 @@ check out the etl.py
 
 **Project Examples**
 
-![alt text](./preview_artist_file.PNG)
+![alt text](./preview_artist_file.png)
 
 
-![alt text](./preview_song_file.PNG)
+![alt text](./preview_song_file.png)
 
 
-![alt text](./song_data_year_partition.PNG)
+![alt text](./song_data_year_partition.png)
 
 -----
 NOTE: End of the project S3 bucket has been deleted
